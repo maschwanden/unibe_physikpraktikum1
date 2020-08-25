@@ -1,0 +1,5 @@
+1) Download Unterlagen von: https://github.com/maschwanden/unibe_physikpraktikum1
+2) Download Miniconda von: https://docs.conda.io/en/latest/miniconda.html
+3) Installiere Miniconda und starte Anaconda Prompt
+4) Erstelle ein neues Python environment: create -n YOURENVNAME python=3.8 matplotlib pandas numpy scipy pint sympy
+5) 
